@@ -50,8 +50,8 @@ This case study is the final capstone project for the **Google Data Analytics Pr
 ---
 
 ## 📄 Final Report
-* You can view the full detailed reports and ducumentation in the [Reports folder](./Reports).
-* You can view the full detailed python coding in the [Notebooks folder](./notebookks).
+* You can view the full detailed reports and documentation in the [Reports folder](./Reports).
+* You can view the full detailed python coding in the [Notebooks folder](./notebooks).
 * You can view the full detailed visualizations in the [Visualization folder](./visuals).
 
 
